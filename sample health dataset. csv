@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Diagnosis
+001,34,F,Hypertension
+002,45,M,Diabetes
+003,,F,Asthma
+004,29,M,Hypertension
+005,53,F,Diabetes
+006,40,,Asthma
+007,61,F,Hypertension
+008,38,M,Asthma
+009,47,F,Diabetes
+010,30,F,Hypertension
