@@ -1,8 +1,18 @@
-health-data-analysis-portfolio/
+Health-Data-Analysis-Portfolio/
 │
-├── notebooks/          # Jupyter notebooks for projects
-├── datasets/           # Raw and cleaned datasets
-├── scripts/            # Python scripts for data cleaning & analysis
-├── reports/            # Charts, visualizations, PDF summaries
-├── resources/          # References, papers, articles
-└── README.md           # Project overview and instructions
+├── README.md
+│
+├── data/
+│   ├── sample_health_dataset.csv
+│
+├── notebooks/
+│   ├── 01_health_data_exploration.ipynb
+│
+├── scripts/
+│   ├── cleaning_script.py
+│
+├── visuals/
+│   ├── graphs/
+│
+└── documentation/
+    ├── project_notes.md
